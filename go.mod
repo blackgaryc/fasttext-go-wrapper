@@ -1,3 +1,2 @@
-module github.com/fkurushin/fasttext-go-wrapper
-
+module github.com/blackgaryc/fasttext-go-wrapper
 go 1.19
